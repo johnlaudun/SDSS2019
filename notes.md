@@ -59,11 +59,7 @@ Short, M. (2007). Thought Presentation Twenty-five Years On. Style, 41(2), 227-2
 
 ## Draft 1
 
-# SDSS Draft
-
 > In the humanities starting out with a data set to be understood except through statistical summary doesn’t jive with the tendency to focus on single objects, so I choose to use statistics to estrange the object and then bring it back into focus in ways students already understand but didn’t realize would be our destination.
-
-
 
 
 ## Sum|marize
@@ -109,7 +105,9 @@ Quotatives fit in here somewhere.
 [^1](#): For more background information and to begin to get a sense of just how many times the story has been adapted see the Wikipedia entry: [https://en.wikipedia.org/wiki/The\_Most\_Dangerous\_Game](https://en.wikipedia.org/wiki/The_Most_Dangerous_Game)
 
 
-## Draft 2
+## Draft 2: "Are we not doing phrasing anymore?"
+
+**Abstract**: This paper offers a small survey of various practices to be found in the digital humanities alongside a few experiments by the author in allowing students to experience how statistical methods in fact de-mystify the meaning-making process in language and empower students not only to ground their insights in things they can see, and count, but also, in understanding texts as nothing more than certain sequences of words. 
 
 > Narratives are situated: they must be interpreted in light of a specific discourse context or occasion for telling. 
 
